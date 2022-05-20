@@ -34,9 +34,6 @@
     --return-input-bg: #E4E3F7;
 }
 
-body {
-    /* font-family: 'Lato', sans-serif; */
-}
 
 .heading {
     color: var(--blue);
