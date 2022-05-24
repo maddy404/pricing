@@ -34,9 +34,6 @@
     --return-input-bg: #E4E3F7;
 }
 
-body {
-    overflow: hidden;
-}
 
 .heading {
     color: var(--blue);
